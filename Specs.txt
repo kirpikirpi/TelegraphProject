@@ -1,0 +1,8 @@
+PROJECT TELEGRAPH
+
+LED RED Voltage: 2.1V 0.03A for 5V circuit-
+Piezo also 2.1V
+Energy source- AA Battery with 1.5V and boost circuit to 5V
+
+
+
